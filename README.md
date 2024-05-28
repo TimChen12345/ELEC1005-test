@@ -1,3 +1,4 @@
-version 1.0
+version 2.0
 # ELEC1005-test
 elec1005 usage
+
